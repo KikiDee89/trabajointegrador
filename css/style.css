@@ -1,0 +1,51 @@
+#compra{
+    color: green;
+}
+
+#oradores, #orador2{
+    text-align: center;
+}
+
+#c2{
+    margin-left: 14%;
+
+}
+
+#formu, #but{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#foot{
+    background: linear-gradient(#090c32,#0f1c3d);
+    color: white;
+    text-align: center;
+    top: 30%;
+}
+
+a:link {
+    color: rgb(255, 255, 255);
+    background-color: transparent;
+    text-decoration: none;
+  }
+
+  a:visited {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+  }
+
+a:hover {
+    color: whitesmoke;
+    background-color: transparent;
+    text-decoration: none; 
+}
+
+#formu{
+    margin-bottom: 3%;
+}
+
+#env{
+    background-color: rgb(7, 229, 7);
+}
